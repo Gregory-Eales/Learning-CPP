@@ -38,3 +38,21 @@ void get_user_input()
 
 }
 
+void array_example()
+{
+    int x[10];
+    for(int i=0; i<10; i++)
+    {
+        x[i]=5;
+    }
+
+    for(int i=0; i<10; i++)
+    {
+        cout<<x[i]<<endl;
+    }
+}
+
+void pointer_example()
+{
+
+}

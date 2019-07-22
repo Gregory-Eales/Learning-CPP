@@ -15,3 +15,7 @@ void print_types();
 void print_constants();
 
 void get_user_input();
+
+void array_example();
+
+void pointer_example();
