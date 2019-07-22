@@ -86,6 +86,12 @@
 		<Unit filename="/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h">
 			<Option target="Learning_CPP"/>
 		</Unit>
+		<Unit filename="/Users/gregeales/Desktop/Repositories/Learning-CPP/User_Defined_Types.cpp">
+			<Option target="Learning_CPP"/>
+		</Unit>
+		<Unit filename="/Users/gregeales/Desktop/Repositories/Learning-CPP/User_Defined_Types.h">
+			<Option target="Learning_CPP"/>
+		</Unit>
 		<Unit filename="/Users/gregeales/Desktop/Repositories/Learning-CPP/main.cpp">
 			<Option target="Learning_CPP"/>
 		</Unit>

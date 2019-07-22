@@ -150,6 +150,33 @@ Basics.cpp.s:
 	$(MAKE) -f CMakeFiles/Learning_CPP.dir/build.make CMakeFiles/Learning_CPP.dir/Basics.cpp.s
 .PHONY : Basics.cpp.s
 
+User_Defined_Types.o: User_Defined_Types.cpp.o
+
+.PHONY : User_Defined_Types.o
+
+# target to build an object file
+User_Defined_Types.cpp.o:
+	$(MAKE) -f CMakeFiles/Learning_CPP.dir/build.make CMakeFiles/Learning_CPP.dir/User_Defined_Types.cpp.o
+.PHONY : User_Defined_Types.cpp.o
+
+User_Defined_Types.i: User_Defined_Types.cpp.i
+
+.PHONY : User_Defined_Types.i
+
+# target to preprocess a source file
+User_Defined_Types.cpp.i:
+	$(MAKE) -f CMakeFiles/Learning_CPP.dir/build.make CMakeFiles/Learning_CPP.dir/User_Defined_Types.cpp.i
+.PHONY : User_Defined_Types.cpp.i
+
+User_Defined_Types.s: User_Defined_Types.cpp.s
+
+.PHONY : User_Defined_Types.s
+
+# target to generate assembly for a file
+User_Defined_Types.cpp.s:
+	$(MAKE) -f CMakeFiles/Learning_CPP.dir/build.make CMakeFiles/Learning_CPP.dir/User_Defined_Types.cpp.s
+.PHONY : User_Defined_Types.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... Basics.o"
 	@echo "... Basics.i"
 	@echo "... Basics.s"
+	@echo "... User_Defined_Types.o"
+	@echo "... User_Defined_Types.i"
+	@echo "... User_Defined_Types.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

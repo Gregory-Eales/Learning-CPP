@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Learning_CPP.dir/main.cpp.o"
   "CMakeFiles/Learning_CPP.dir/Basics.cpp.o"
+  "CMakeFiles/Learning_CPP.dir/User_Defined_Types.cpp.o"
   "Learning_CPP.pdb"
   "Learning_CPP"
 )

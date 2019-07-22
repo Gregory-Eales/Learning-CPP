@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.cpp
-Basics.h
 /Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h
-iostream
--
 
-/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h
+/Users/gregeales/Desktop/Repositories/Learning-CPP/User_Defined_Types.cpp
+User_Defined_Types.h
+/Users/gregeales/Desktop/Repositories/Learning-CPP/User_Defined_Types.h
+
+/Users/gregeales/Desktop/Repositories/Learning-CPP/User_Defined_Types.h
 
 /Users/gregeales/Desktop/Repositories/Learning-CPP/main.cpp
 iostream
@@ -21,4 +21,6 @@ vector
 -
 Basics.h
 /Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h
+User_Defined_Types.h
+/Users/gregeales/Desktop/Repositories/Learning-CPP/User_Defined_Types.h
 
