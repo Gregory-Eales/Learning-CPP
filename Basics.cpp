@@ -54,5 +54,8 @@ void array_example()
 
 void pointer_example()
 {
-
+    int x = 5;
+    int *x_pointer;
+    x_pointer = &x;
+    cout<<x_pointer<<endl;
 }

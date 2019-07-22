@@ -8,7 +8,7 @@
 using namespace std;
 int main() {
 
-    array_example();
+    pointer_example();
 
     return 0;
 }
