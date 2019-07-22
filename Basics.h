@@ -13,3 +13,5 @@ void hello_world();
 void print_types();
 
 void print_constants();
+
+void get_user_input();

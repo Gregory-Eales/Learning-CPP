@@ -24,6 +24,17 @@ void print_types()
 
 void print_constants()
 {
-    
+    cout<<"const is a promise that a declaration won't change"<<endl;
+    cout<<"constexpr is saying it is constant at compile time"<<endl;
+}
+
+void get_user_input()
+{
+    string input;
+    cout<<"Whats your first name?"<<endl;
+    cin>>input;
+    cout<<"Your name is: ";
+    cout<<input<<endl;
+
 }
 
