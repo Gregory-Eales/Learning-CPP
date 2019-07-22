@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.cpp
+Basics.h
+/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h
+iostream
+-
+
+/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h
+
+/Users/gregeales/Desktop/Repositories/Learning-CPP/main.cpp
+iostream
+-
+Basics.h
+/Users/gregeales/Desktop/Repositories/Learning-CPP/Basics.h
+
