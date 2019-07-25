@@ -10,6 +10,8 @@ class ClassExample {
 
 public:
     ClassExample();
+    void data_types();
+    void new_line();
 
 private:
 
